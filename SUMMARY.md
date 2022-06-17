@@ -7,6 +7,10 @@
 * [NENO](tokens/neno.md)
 * [neToken](tokens/netoken.md)
 
+## Bridge
+
+* [Bridging Tokens](bridge/bridging-tokens.md)
+
 ## Contracts
 
 * [Contracts](contracts/contracts.md)
