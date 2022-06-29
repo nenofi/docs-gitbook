@@ -14,3 +14,7 @@
 ## Contracts
 
 * [Contracts](contracts/contracts.md)
+
+## Testnets
+
+* [Testnet Contracts](testnets/testnet-contracts.md)
