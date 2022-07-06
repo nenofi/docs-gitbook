@@ -1,5 +1,5 @@
 ---
-description: Protocol for the masses
+description: Bringing trust into trustless systems.
 ---
 
 # What is NenoFi?

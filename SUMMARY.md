@@ -2,6 +2,10 @@
 
 * [What is NenoFi?](README.md)
 
+## Whitepaper
+
+* [Introduction](whitepaper/introduction.md)
+
 ## Tokens
 
 * [NENO](tokens/neno.md)
