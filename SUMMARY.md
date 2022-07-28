@@ -1,8 +1,9 @@
 # Table of contents
 
+* [What is NenoFi?](README.md)
+
 ## Whitepaper
 
-* [What is NenoFi?](README.md)
 * [Introduction](whitepaper/introduction.md)
 
 ## Tokens
