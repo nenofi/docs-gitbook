@@ -6,6 +6,10 @@
 
 * [Introduction](whitepaper/introduction.md)
 
+## NenoFi Ecosystem
+
+* [Getting Into The Ecosystem](nenofi-ecosystem/getting-into-the-ecosystem.md)
+
 ## Tokens
 
 * [NENO](tokens/neno.md)
@@ -13,7 +17,7 @@
 
 ## Bridge
 
-* [Bridging Tokens](bridge/bridging-tokens.md)
+* [XChain Vaults](bridge/xchain-vaults.md)
 
 ## Contracts
 
