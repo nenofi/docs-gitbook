@@ -1,9 +1,12 @@
 # Roadmap
 
-## Upcoming
+### Done
 
-* [ ] Crosschain neToken Vault Contract
-* [ ] App Front-End
+* [x] App Alpha Front-End
+* [x] Crosschain neToken Vault Contract
+
+### Upcoming
+
 * [ ] Liquidity Blackhole
 * [ ] Liquidity Bootstrapping&#x20;
 * [ ] Protocol Funding (Bonding + Equity)

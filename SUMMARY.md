@@ -17,7 +17,7 @@
 
 ## Bridge
 
-* [XChain Vaults](bridge/xchain-vaults.md)
+* [XChain Vaults](bridge/bridging-tokens.md)
 
 ## Contracts
 
