@@ -15,9 +15,10 @@
 * [NENO](tokens/neno.md)
 * [neToken](tokens/netoken.md)
 
-## Bridge
+## Products
 
-* [XChain Vaults](bridge/bridging-tokens.md)
+* [XChain Vaults](products/xchain-vaults.md)
+* [Bookie](products/bookie.md)
 
 ## Contracts
 
