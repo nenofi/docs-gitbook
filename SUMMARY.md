@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is NenoFi?](README.md)
+* [Roadmap](roadmap.md)
 
 ## Whitepaper
 
@@ -27,4 +28,3 @@
 ## Testnets
 
 * [Testnet Contracts](testnets/testnet-contracts.md)
-* [Roadmap](testnets/roadmap.md)
