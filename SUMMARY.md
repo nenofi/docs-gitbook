@@ -14,7 +14,8 @@
 ## Tokens
 
 * [NENO](tokens/neno.md)
-* [neToken](tokens/netoken.md)
+* [neToken](tokens/netoken/README.md)
+  * [neIDR](tokens/netoken/neidr.md)
 
 ## Products
 

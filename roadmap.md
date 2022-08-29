@@ -11,4 +11,5 @@
 * [ ] Liquidity Blackhole
 * [ ] Protocol Funding (Bonding + Equity)
 * [ ] Isolated borrow/lending pools
-
+* [ ] IDRT as neIDR backing
+* [ ] PCV for neIDR
