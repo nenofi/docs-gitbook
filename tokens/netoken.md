@@ -1,6 +1,6 @@
 # neToken
 
-neToken is the main token that will be used in NenoFi ecosystem. neToken is an aggregation of similar tokens.&#x20;
+neToken is the main token that will be used in NenoFi ecosystem. neTokens are an aggregation of similar tokens.&#x20;
 
 ### How neToken Aggregation Works?
 
