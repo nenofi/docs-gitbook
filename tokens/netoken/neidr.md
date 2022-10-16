@@ -6,7 +6,7 @@ neIDR is fully backed by BIDR on the BSC network. You can always redeem your neI
 
 1. Get BIDR from Tokocrypto or Binance.
 2. Send your BIDR from Tokocrypto/Binance to your wallet on the BSC network.&#x20;
-3. Deposit your BIDR to NenoFi BIDR Xchain Vault on BSC.
+3. Deposit your BIDR to NenoFi BIDR Bridge BSC on [https://alpha.nenofi.com/Xchain](https://alpha.nenofi.com/Xchain).
 4. You will get neIDR in your wallet on the Fantom network.
 
 Or
