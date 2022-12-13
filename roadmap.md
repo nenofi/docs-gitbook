@@ -9,6 +9,7 @@
 
 ### Upcoming
 
+* [ ] ReFi
 * [ ] Liquidity Blackhole
 * [ ] Protocol Funding (Bonding + Equity)
 * [ ] IDRT as neIDR backing

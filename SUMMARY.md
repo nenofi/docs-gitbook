@@ -11,20 +11,20 @@
 
 * [Getting Into The Ecosystem](nenofi-ecosystem/getting-into-the-ecosystem.md)
 
-## Tokens
-
-* [NENO](tokens/neno.md)
-* [neToken](tokens/netoken.md)
-  * [neIDR](tokens/netoken/neidr.md)
-
 ## Products
 
-* [Isolated Lending](products/isolated-lending.md)
+* [Isolated Lending](products/xchain-vaults.md)
+* [Regenerative Finance (ReFi)](products/regenerative-finance-refi.md)
 * [Bookie](products/bookie.md)
+
+## Developers
+
+* [Isolated Lending](developers/isolated-lending.md)
 
 ## Contracts
 
 * [Contracts](contracts/contracts.md)
+* [Audit](contracts/audit.md)
 * [Transparency](contracts/transparency.md)
 
 ## Testnets
