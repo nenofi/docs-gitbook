@@ -19,12 +19,13 @@
 
 ## Products
 
-* [XChain Vaults](products/xchain-vaults.md)
+* [Isolated Lending](products/isolated-lending.md)
 * [Bookie](products/bookie.md)
 
 ## Contracts
 
 * [Contracts](contracts/contracts.md)
+* [Transparency](contracts/transparency.md)
 
 ## Testnets
 
