@@ -5,11 +5,13 @@
 * [x] App Alpha Front-End
 * [x] Crosschain neToken Vault Contract V01
 * [x] Bookie Contract V01
+* [x] Isolated Lending Contract WBTC/USDC pool
+* [x] IsolatedLendingV01 Contract
 
 ### Upcoming
 
+* [ ] ReFi
 * [ ] Liquidity Blackhole
 * [ ] Protocol Funding (Bonding + Equity)
-* [ ] Isolated borrow/lending pools
 * [ ] IDRT as neIDR backing
 * [ ] PCV for neIDR
