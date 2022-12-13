@@ -22,7 +22,7 @@ With NenoFi isolating lending pairs, anyone can create a new pair and our team w
 
 NenoFi isolated pool will allow for the creation of thousands of lending pairs for any asset, creating the ability to go short/long on a large variety of assets. This is something that is in high demand, but currently not available for most assets.
 
-Currently, there are some markets in which long/short position is prohibited.&#x20;
+Currently, there are some markets in which long/short position is unavailable or prohibited.&#x20;
 
 Let’s say we want to short GOTO
 
