@@ -1,9 +1,18 @@
----
-description: Bringing trust into trustless systems.
----
+# Roadmap
 
-# What is NenoFi?
+### Done
 
-NenoFi is a decentralized applications (dApps) ecosystem that provides traditional fintech utilities and applications on-chain. Imagine a decentralized and permissionless gopay + QRIS with additional features that a traditional fintech can't do.
+* [x] App Alpha Front-End
+* [x] Crosschain neToken Vault Contract V01
+* [x] Bookie Contract V01
+* [x] Isolated Lending Contract WBTC/USDC pool
+* [x] Isolated Lending Contract moobeftm/WFTMpool
+* [x] IsolatedLendingV01 Contract
 
-With NenoFi, you can make micropayments, invests in index funds, p2p permissionless lending/borrowing, savings, and so on. It is a one stop financial solution implemented in a decentralized manner.
+### Upcoming
+
+* [ ] ReFi
+* [ ] Liquidity Blackhole
+* [ ] Protocol Funding (Bonding + Equity)
+* [ ] IDRT as neIDR backing
+* [ ] PCV for neIDR

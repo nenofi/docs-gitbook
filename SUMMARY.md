@@ -1,15 +1,10 @@
 # Table of contents
 
-* [What is NenoFi?](README.md)
-* [Roadmap](roadmap.md)
+* [Roadmap](README.md)
 
 ## Whitepaper
 
 * [Introduction](whitepaper/introduction.md)
-
-## NenoFi Ecosystem
-
-* [Getting Into The Ecosystem](nenofi-ecosystem/getting-into-the-ecosystem.md)
 
 ## Products
 
