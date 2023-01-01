@@ -19,14 +19,14 @@ To execute a liquidation call, you need to know:
 * The user's solvency
   * By calling `isSolvent(address user_address)`
   * Solvency is determined by `userCollateralValue(address user_address) * CLOSED_COLLATERAZATION_RATE >= totalAmountBorrowed(address user_address)`
-  * `CLOSED_COLLATERAZATION_RATE` are different for each pool (see: pools)
+  * `CLOSED_COLLATERAZATION_RATE` are different for each pool (see: [pools](../contracts/contracts.md))
 * The user's amount of debt&#x20;
   * By calling`totalAmountBorrowed(address user_address)` you can get the borrowed amount.
 
 ### Liquidating a User
 
 * If `isSolvent(address user_address)` returns false than that user is able to be liquidated.
-  * Liquidation bonus are different for each pool (see: pools)
+  * Liquidation bonus are different for each pool (see: [pools](../contracts/contracts.md))
 * Check user's borrowed amount by calling `totalAmountBorrowed(address user_address)`
   * nenofi IsolatedLendingV01 allows liquidator to liquidate 100% of borrowed amount
 * Call `liquidate(address user_address, uint256 amount)` to liquidate insolvent users.\
