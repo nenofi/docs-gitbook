@@ -3,7 +3,7 @@
 ## Whitepaper
 
 * [Introduction](README.md)
-* [Roadmap](whitepaper/roadmap.md)
+* [Roadmap](roadmap.md)
 
 ## Products
 
