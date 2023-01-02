@@ -1,10 +1,9 @@
 # Table of contents
 
-* [Roadmap](README.md)
-
 ## Whitepaper
 
-* [Introduction](whitepaper/introduction.md)
+* [Introduction](README.md)
+* [Roadmap](whitepaper/roadmap.md)
 
 ## Products
 

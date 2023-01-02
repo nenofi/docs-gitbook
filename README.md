@@ -1,18 +1,9 @@
-# Roadmap
+# Introduction
 
-### Done
+The building blocks for a decentralized financial system and its use cases are already there and been proven that it works to a certain degree.  Lending and Borrowing has been tried and tested by Compound and Aave. Exchange has been built and proven by Uniswap and Curve. Asset management and autocompounder has been proven by Yearn. The foundations are there, but public and institutional adoptions are extremely low.&#x20;
 
-* [x] App Alpha Front-End
-* [x] Crosschain neToken Vault Contract V01
-* [x] Bookie Contract V01
-* [x] Isolated Lending Contract WBTC/USDC pool
-* [x] Isolated Lending Contract moobeftm/WFTMpool
-* [x] IsolatedLendingV01 Contract
+There are 3 reasons on why adoptions are low:
 
-### Upcoming
-
-* [ ] ReFi
-* [ ] Liquidity Blackhole
-* [ ] Protocol Funding (Bonding + Equity)
-* [ ] IDRT as neIDR backing
-* [ ] PCV for neIDR
+1. Lack of trust between users and protocols.
+2. Protocols tend to have a closed feedback "ponzinomic" model because there are no tangible outputs.
+3. The legitimacy and adoption dilemma.
