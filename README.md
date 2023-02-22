@@ -4,6 +4,6 @@ The building blocks for a decentralized financial system and its use cases are a
 
 There are 3 reasons on why adoptions are low:
 
-1. Lack of trust between users and protocols.
+1. Lack of trust between users and protocols/dApps.
 2. Protocols tend to have a closed feedback "ponzinomic" model because there are no tangible outputs.
 3. The legitimacy and adoption dilemma.
