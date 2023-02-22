@@ -1,15 +1,15 @@
 # Table of contents
 
-## Whitepaper
+* [Roadmap](README.md)
 
-* [Introduction](README.md)
-* [Roadmap](roadmap.md)
+## About
+
+* [What is nenofi?](about/what-is-nenofi.md)
 
 ## Products
 
 * [Isolated Lending](products/xchain-vaults.md)
 * [Regenerative Finance (ReFi)](products/regenerative-finance-refi.md)
-* [Bookie](products/bookie.md)
 
 ## Developers
 
