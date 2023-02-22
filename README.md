@@ -1,16 +1,4 @@
-# Roadmap
+# What is nenofi?
 
-### Done
-
-* [x] App Alpha Front-End
-* [x] Crosschain neToken Vault Contract V01
-* [x] Bookie Contract V01
-* [x] IsolatedLendingV01 Contract
-
-### Upcoming
-
-* [ ] IsolatedLending Factory
-* [ ] ReFi
-* [ ] Protocol Token
-* [ ] nenoFed
+Nenofi is a Fantom native one-stop shop for decentralized banking. Our mission is to provide open banking services that serves both people and planet. Our products ranges from borrowing/lending, issuing stable coins, to climate financing.
 

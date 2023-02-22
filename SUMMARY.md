@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Roadmap](README.md)
-
 ## About
 
-* [What is nenofi?](about/what-is-nenofi.md)
+* [What is nenofi?](README.md)
 
 ## Products
 
@@ -24,3 +22,4 @@
 ## Testnets
 
 * [Testnet Contracts](testnets/testnet-contracts.md)
+* [Roadmap](testnets/roadmap.md)
