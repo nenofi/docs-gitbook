@@ -16,11 +16,11 @@ We solve these issues by having a platform with:
 
 Notable protocols such as Compound and Aave and, allow users to supply a variety of collateral assets and borrow another set of assets. However, if there is one bad asset within the system and that asset price drops rapidly before liquidators and liquidate, every single user will be affected by this. The platform's risk is therefore determined by the risk level of the riskiest asset on it. Adding more assets increases this risk, leading to a limited number of assets available on most platforms. Protocols such as Scream and Rari Capital lost tons of users' fund because of this.
 
-With NenoFi isolating lending pairs, anyone can create a new pair and our team will help you set up a pair for your asset if needed. Some lending pairs will be very stable and safe, others not so much if they include highly volatile assets, low liquidity, and oracle failure. Because these are isolated pools, risk is limited to individual pools and interest rates will reflect that risk. Higher risk pools will attract less suppliers, hence pushing up the interest rate. We will curate the pool so that users will know which pool are riskier than others.
+With Nenofi isolating lending pairs, anyone can create a new pair and our team will help you set up a pair for your asset if needed. Some lending pairs will be very stable and safe, others not so much if they include highly volatile assets, low liquidity, and oracle failure. Because these are isolated pools, risk is limited to individual pools and interest rates will reflect that risk. Higher risk pools will attract less suppliers, hence pushing up the interest rate. We will curate the pool so that users will know which pool are riskier than others.
 
 ### Shorting or Longing Any Assets[​](https://docs.sushi.com/docs/Developers/Kashi%20Lending/Overview#margin-shorting-any-token) <a href="#margin-shorting-any-token" id="margin-shorting-any-token"></a>
 
-NenoFi isolated pool will allow for the creation of thousands of lending pairs for any asset, creating the ability to go short/long on a large variety of assets. This is something that is in high demand, but currently not available for most assets.
+Nenofi isolated lending pool will allow for the creation of thousands of lending pairs for any asset, creating the ability to go short/long on a large variety of assets. This is something that is in high demand, but currently not available for most assets.
 
 Currently, there are some markets in which long/short position is unavailable or prohibited.&#x20;
 

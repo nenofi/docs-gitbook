@@ -8,7 +8,7 @@ To participate in liquidations you can:
 2. Create your own scripts / bot to liquidate
 
 {% hint style="info" %}
-nenofi IsolatedLendingV01 allows to liquidate 100% of borrowers debt whenever their borrow amount is greater than the pool's liquidation threshold or `CLOSED_COLLATERAZATION_RATE`
+Nenofi IsolatedLendingV01 allows to liquidate 100% of borrowers debt whenever their borrow amount is greater than the pool's liquidation threshold or `OPEN_COLLATERAZATION_RATE`
 {% endhint %}
 
 ### Prerequisite
@@ -18,8 +18,8 @@ To execute a liquidation call, you need to know:
 * The user address/account that borrows within a particular isolated lending pool
 * The user's solvency
   * By calling `isSolvent(address user_address)`
-  * Solvency is determined by `userCollateralValue(address user_address) * CLOSED_COLLATERAZATION_RATE >= totalAmountBorrowed(address user_address)`
-  * `CLOSED_COLLATERAZATION_RATE` are different for each pool (see: [pools](../contracts/contracts.md))
+  * Solvency is determined by `userCollateralValue(address user_address) * OPEN_COLLATERAZATION_RATE >= totalAmountBorrowed(address user_address)`
+  * `OPEN_COLLATERAZATION_RATE` are different for each pool (see: [pools](../contracts/contracts.md))
 * The user's amount of debt&#x20;
   * By calling`totalAmountBorrowed(address user_address)` you can get the borrowed amount.
 
