@@ -1,2 +1,0 @@
-# Regenerative Finance (ReFi)
-
