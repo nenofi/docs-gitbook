@@ -12,4 +12,3 @@
 ## Testnets
 
 * [Testnet Contracts](testnets/testnet-contracts.md)
-* [Roadmap](testnets/roadmap.md)
