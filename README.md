@@ -30,26 +30,3 @@ Nenofi, by contrast, sidesteps such shared risk through its innovative, isolated
 Further distinguishing Nenofi is its use of dynamic elastic interest rates. This feature is designed to motivate liquidity within a certain range based on supply and demand, hence maintaining a balance in the system.&#x20;
 
 In essence, Nenofi's design strive to provide a safer, more flexible, and inclusive lending environment, thereby distinguishing it from other DeFi lending platforms.
-
-\
-\
-
-
-\
-
-
-\
-
-
-\
-\
-
-
-
-
-\
-
-
-\
-
-
