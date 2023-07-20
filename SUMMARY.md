@@ -2,4 +2,4 @@
 
 ## About
 
-* [What is nenofi?](README.md)
+* [What is Nenofi?](README.md)
