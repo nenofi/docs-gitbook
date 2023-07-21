@@ -24,16 +24,3 @@ description: >-
 Remember, you can withdraw your funds along with the earned interest anytime. Navigate to 'Remove Asset', click on "Withdraw", and confirm the transaction.
 
 It's important to note that lending assets in DeFi platforms, including Nenofi, involves risk. Please make sure to understand these risks before you start. Happy lending!
-
-\
-\
-
-
-\
-
-
-&#x20;
-
-
-
-\
