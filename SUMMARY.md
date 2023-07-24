@@ -9,6 +9,10 @@
 
 * [Depositing & Withdrawing](lenders/depositing-and-withdrawing.md)
 
+## Borrowers
+
+* [Borrow & Repay](borrowers/borrow-and-repay.md)
+
 ## Contracts
 
 * [Audits](contracts/audits.md)
