@@ -11,7 +11,7 @@
 
 ## Borrowers
 
-* [Borrow & Repay](borrowers/borrow-and-repay.md)
+* [Borrowing & Repaying](borrowers/borrowing-and-repaying.md)
 
 ## Contracts
 
