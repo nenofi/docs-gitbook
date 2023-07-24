@@ -6,7 +6,7 @@
 
 ## Lenders
 
-* [Depositing](lenders/depositing.md)
+* [Depositing & Withdrawing](lenders/depositing-and-withdrawing.md)
 
 ## Contracts
 
