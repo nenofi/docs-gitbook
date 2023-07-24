@@ -3,6 +3,7 @@
 ## About
 
 * [What is Nenofi?](README.md)
+* [Nenofi v Traditional Finance](about/nenofi-v-traditional-finance.md)
 
 ## Lenders
 
