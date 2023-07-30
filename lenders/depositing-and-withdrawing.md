@@ -8,7 +8,7 @@ description: >-
 
 1. **Buy ETH and USDT on your favorite crypto exchange**
 2. **Transfer both your ETH and USDT to your wallet on Optimism Network**\
-   ETH is used to pay for the transaction you make on Nenofi. Since we're built on top of Optimism transaction fee is much cheaper than Ethereum. You will need less than $5 to pay for your transaction fees for a while.
+   ETH is used to pay for transactions on Nenofi. Since we're built on top of Optimism, the transaction fee is much cheaper than on Ethereum. You will likely need less than $10 to cover your transaction fees for a while.
 3. **Navigate to Nenofi App and Sign In with your wallet**\
    Navigate to the Nenofi at [app.nenofi.com](https://www.app.nenofi.com) and click on "Sign In" button in the top right corner. Choose your wallet provider and approve the connection.
 4. **Navigate to Lend page**\
