@@ -12,16 +12,16 @@ Alice is earning 1% on her savings.\
 With a good credit score and cumbersome application process Bob borrows at 7% rate.
 
 **Banks Revenue:** $53\
-**Avg Net Profit Margin:** \~12%\
-**Profit**: $6.5
+**Avg Net Profit Margin:** \~14%\
+**Profit**: $7.42
 
 ### Nenofi
 
-<figure><img src="../.gitbook/assets/Alice(1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2023-10-29 at 17.04.18.png" alt=""><figcaption></figcaption></figure>
 
-Alice is earning 3.2% on her savings.\
-Bob borrows at 5% rate while his collateral appreciates in value
+Alice is earning 3.7% on her savings.\
+Bob borrows at 5.8% rate while his collateral appreciates in value
 
-**Nenofi Revenue**: $8 \
-**Avg Net Profit Margin**: \~81%\
-**Profit**: $6.5
+**Nenofi Revenue**: $9.3\
+**Avg Net Profit Margin**: \~80%\
+**Profit**: $7.42
