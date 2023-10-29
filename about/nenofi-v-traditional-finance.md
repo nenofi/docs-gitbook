@@ -11,8 +11,8 @@ description: New paradigm of Borrowing and Lending
 Alice is earning 1% on her savings.\
 With a good credit score and cumbersome application process Bob borrows at 7% rate.
 
-**Banks Revenue:** $50\
-**Avg Net Profit Margin:** 13%\
+**Banks Revenue:** $53\
+**Avg Net Profit Margin:** \~12%\
 **Profit**: $6.5
 
 ### Nenofi
@@ -23,5 +23,5 @@ Alice is earning 3.2% on her savings.\
 Bob borrows at 5% rate while his collateral appreciates in value
 
 **Nenofi Revenue**: $8 \
-**Avg Net Profit Margin**: 85%\
+**Avg Net Profit Margin**: \~81%\
 **Profit**: $6.5
