@@ -4,7 +4,7 @@ description: Money Market Liquidity Protocol on Optimism 🔴
 
 # What is Nenofi?
 
-Nenofi is a money market liquidity protocol built on the Optimism network. At its core, it enables users to lend and borrow any type of assets in a permissionless manner. Our unique system uses isolated pools to make lending and borrowing more flexible and secure.
+Nenofi is a money market liquidity protocol built on the Optimism network. At its core, it enables users to lend and borrow any type of asset in a permissionless manner. Our unique system uses isolated pools to make lending and borrowing more flexible and secure.
 
 ## Key Features
 
